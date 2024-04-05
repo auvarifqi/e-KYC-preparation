@@ -16,7 +16,7 @@ OpenCV
 For more detailed information, please refer to the liveness_detection/README.md file.
 
 # OCR
-The ocr folder contains the implementation for text recognition with TensorFlow and CTC (Connectionist Temporal Classification) network. This integration enhances text recognition from images by integrating Optical Character Recognition (OCR) with Natural Language Processing (NLP) techniques. By combining these two methodologies, we can improve the accuracy and efficiency of extracting text from images in various contexts.
+The ocr folder contains the implementation for text recognition with TensorFlow. This integration enhances text recognition from images by integrating Optical Character Recognition (OCR) with Natural Language Processing (NLP) techniques. By combining these two methodologies, we can improve the accuracy and efficiency of extracting text from images in various contexts.
 
 Benefits of OCR and NLP Integration
 Improved Accuracy
